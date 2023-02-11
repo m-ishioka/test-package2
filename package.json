@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+	"name": "@m-ishioka/test-package",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/m-ishioka/test-package.git"
+	},
+  "publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
+}
